@@ -1,0 +1,352 @@
+------------------------------------------------------------------------
+r40 | sapu94 | 2010-11-01 06:15:11 +0000 (Mon, 01 Nov 2010) | 1 line
+Changed paths:
+   M /trunk/TradeSkillMaster.lua
+
+updated icon layout to update after a frame resize
+------------------------------------------------------------------------
+r39 | mischanix | 2010-11-01 06:13:03 +0000 (Mon, 01 Nov 2010) | 1 line
+Changed paths:
+   M /trunk/Locale/enUS.lua
+   M /trunk/TradeSkillMaster.lua
+
+Chat command help support updated; the default status frame loading code needs to be changed to run after modules load (i.e. update after an async delay)
+------------------------------------------------------------------------
+r38 | sapu94 | 2010-11-01 05:50:58 +0000 (Mon, 01 Nov 2010) | 1 line
+Changed paths:
+   M /trunk/TradeSkillMaster.lua
+
+finished the icon layout stuff
+------------------------------------------------------------------------
+r37 | sapu94 | 2010-11-01 05:36:46 +0000 (Mon, 01 Nov 2010) | 1 line
+Changed paths:
+   M /trunk/TradeSkillMaster.lua
+
+update
+------------------------------------------------------------------------
+r36 | sapu94 | 2010-11-01 05:34:32 +0000 (Mon, 01 Nov 2010) | 1 line
+Changed paths:
+   M /trunk/TradeSkillMaster.lua
+
+update
+------------------------------------------------------------------------
+r35 | sapu94 | 2010-11-01 05:33:42 +0000 (Mon, 01 Nov 2010) | 1 line
+Changed paths:
+   M /trunk/TradeSkillMaster.lua
+
+update
+------------------------------------------------------------------------
+r34 | mischanix | 2010-11-01 05:13:12 +0000 (Mon, 01 Nov 2010) | 1 line
+Changed paths:
+   M /trunk/Locale/enUS.lua
+   M /trunk/TradeSkillMaster.lua
+
+Left-side supports columning icons (sapu), API now supports slash commands (no help for API commands yet)
+------------------------------------------------------------------------
+r33 | sapu94 | 2010-11-01 05:01:43 +0000 (Mon, 01 Nov 2010) | 1 line
+Changed paths:
+   M /trunk/TradeSkillMaster.lua
+
+update
+------------------------------------------------------------------------
+r32 | sapu94 | 2010-11-01 04:33:24 +0000 (Mon, 01 Nov 2010) | 1 line
+Changed paths:
+   M /trunk/TradeSkillMaster.lua
+
+update
+------------------------------------------------------------------------
+r31 | mischanix | 2010-11-01 04:23:42 +0000 (Mon, 01 Nov 2010) | 1 line
+Changed paths:
+   M /trunk/Locale/enUS.lua
+   M /trunk/TradeSkillMaster.lua
+
+Main window now shows a status page as default, with a notification if the user has no Modules loaded.
+------------------------------------------------------------------------
+r30 | sapu94 | 2010-11-01 03:55:32 +0000 (Mon, 01 Nov 2010) | 1 line
+Changed paths:
+   M /trunk/TradeSkillMaster.lua
+
+update
+------------------------------------------------------------------------
+r29 | sapu94 | 2010-11-01 03:19:47 +0000 (Mon, 01 Nov 2010) | 1 line
+Changed paths:
+   M /trunk/TradeSkillMaster.lua
+
+update
+------------------------------------------------------------------------
+r28 | sapu94 | 2010-11-01 02:53:01 +0000 (Mon, 01 Nov 2010) | 1 line
+Changed paths:
+   M /trunk/TradeSkillMaster.lua
+
+update
+------------------------------------------------------------------------
+r27 | mischanix | 2010-11-01 02:20:56 +0000 (Mon, 01 Nov 2010) | 1 line
+Changed paths:
+   M /trunk/TradeSkillMaster.lua
+
+Status page gui base
+------------------------------------------------------------------------
+r26 | sapu94 | 2010-11-01 01:04:45 +0000 (Mon, 01 Nov 2010) | 1 line
+Changed paths:
+   M /trunk/TradeSkillMaster.lua
+
+put in new APIs
+------------------------------------------------------------------------
+r25 | sapu94 | 2010-10-31 23:05:41 +0000 (Sun, 31 Oct 2010) | 1 line
+Changed paths:
+   M /trunk/TradeSkillMaster.lua
+
+update
+------------------------------------------------------------------------
+r24 | sapu94 | 2010-10-29 03:39:20 +0000 (Fri, 29 Oct 2010) | 1 line
+Changed paths:
+   M /trunk/TradeSkillMaster.toc
+
+update
+------------------------------------------------------------------------
+r23 | sapu94 | 2010-10-29 02:12:00 +0000 (Fri, 29 Oct 2010) | 1 line
+Changed paths:
+   M /trunk/TradeSkillMaster.lua
+
+update
+------------------------------------------------------------------------
+r22 | sapu94 | 2010-10-29 02:04:50 +0000 (Fri, 29 Oct 2010) | 1 line
+Changed paths:
+   M /trunk/TradeSkillMaster.lua
+   M /trunk/TradeSkillMaster.toc
+
+update
+------------------------------------------------------------------------
+r21 | sapu94 | 2010-10-28 03:52:19 +0000 (Thu, 28 Oct 2010) | 1 line
+Changed paths:
+   M /trunk/TradeSkillMaster.lua
+
+new version
+------------------------------------------------------------------------
+r20 | sapu94 | 2010-10-28 03:51:36 +0000 (Thu, 28 Oct 2010) | 1 line
+Changed paths:
+   M /trunk/TradeSkillMaster.lua
+
+updated the releasing of widgets
+------------------------------------------------------------------------
+r19 | sapu94 | 2010-10-28 03:22:48 +0000 (Thu, 28 Oct 2010) | 1 line
+Changed paths:
+   M /trunk/TradeSkillMaster.lua
+
+new api for SetFrameSize(width, height)
+------------------------------------------------------------------------
+r18 | sapu94 | 2010-10-28 02:07:33 +0000 (Thu, 28 Oct 2010) | 1 line
+Changed paths:
+   M /trunk
+
+update
+------------------------------------------------------------------------
+r17 | sapu94 | 2010-10-28 01:44:26 +0000 (Thu, 28 Oct 2010) | 1 line
+Changed paths:
+   D /trunk/Libs
+
+removed libs
+------------------------------------------------------------------------
+r16 | sapu94 | 2010-10-26 03:04:36 +0000 (Tue, 26 Oct 2010) | 1 line
+Changed paths:
+   M /trunk/.pkgmeta
+
+updated pkgmeta
+------------------------------------------------------------------------
+r15 | sapu94 | 2010-10-25 23:20:33 +0000 (Mon, 25 Oct 2010) | 1 line
+Changed paths:
+   M /trunk/Scan.lua
+   M /trunk/TradeSkillMaster.lua
+
+update
+------------------------------------------------------------------------
+r14 | sapu94 | 2010-10-25 01:01:53 +0000 (Mon, 25 Oct 2010) | 1 line
+Changed paths:
+   D /trunk/ChangeLog.txt
+   D /trunk/Data
+   D /trunk/Modules
+   A /trunk/Scan.lua
+
+update
+------------------------------------------------------------------------
+r13 | sapu94 | 2010-10-25 01:00:56 +0000 (Mon, 25 Oct 2010) | 1 line
+Changed paths:
+   M /trunk/TradeSkillMaster.lua
+   M /trunk/TradeSkillMaster.toc
+
+new main TSM files
+------------------------------------------------------------------------
+r12 | sapu94 | 2010-10-24 18:21:05 +0000 (Sun, 24 Oct 2010) | 1 line
+Changed paths:
+   M /trunk/.pkgmeta
+
+update of pkgmeta
+------------------------------------------------------------------------
+r11 | sapu94 | 2010-10-24 18:20:17 +0000 (Sun, 24 Oct 2010) | 1 line
+Changed paths:
+   M /trunk/Locale/enUS.lua
+   M /trunk/Modules/enchanting.lua
+   M /trunk/Modules/gui.lua
+
+committing what i have
+------------------------------------------------------------------------
+r10 | sapu94 | 2010-10-17 22:43:07 +0000 (Sun, 17 Oct 2010) | 1 line
+Changed paths:
+   M /trunk/ChangeLog.txt
+
+should work this time
+------------------------------------------------------------------------
+r9 | sapu94 | 2010-10-17 22:41:27 +0000 (Sun, 17 Oct 2010) | 1 line
+Changed paths:
+   M /trunk/.pkgmeta
+
+try again...
+------------------------------------------------------------------------
+r8 | sapu94 | 2010-10-17 22:39:03 +0000 (Sun, 17 Oct 2010) | 1 line
+Changed paths:
+   M /trunk/TradeSkillMaster.lua
+
+packaging should work this time
+------------------------------------------------------------------------
+r7 | sapu94 | 2010-10-17 22:37:36 +0000 (Sun, 17 Oct 2010) | 1 line
+Changed paths:
+   M /trunk/TradeSkillMaster.lua
+
+latest version
+------------------------------------------------------------------------
+r6 | sapu94 | 2010-10-17 05:15:01 +0000 (Sun, 17 Oct 2010) | 1 line
+Changed paths:
+   M /trunk/Modules/data.lua
+   M /trunk/Modules/enchanting.lua
+   M /trunk/Modules/gui.lua
+   M /trunk/Modules/scan.lua
+   M /trunk/TradeSkillMaster.lua
+
+major changes
+------------------------------------------------------------------------
+r5 | sapu94 | 2010-10-17 00:34:49 +0000 (Sun, 17 Oct 2010) | 2 lines
+Changed paths:
+   M /trunk/.pkgmeta
+
+change the pkgmeta file
+
+------------------------------------------------------------------------
+r4 | sapu94 | 2010-10-17 00:33:44 +0000 (Sun, 17 Oct 2010) | 1 line
+Changed paths:
+   A /trunk/ChangeLog.txt
+
+added changelog
+------------------------------------------------------------------------
+r3 | sapu94 | 2010-10-17 00:27:35 +0000 (Sun, 17 Oct 2010) | 1 line
+Changed paths:
+   A /trunk/.pkgmeta
+
+second commit
+------------------------------------------------------------------------
+r2 | sapu94 | 2010-10-17 00:27:02 +0000 (Sun, 17 Oct 2010) | 1 line
+Changed paths:
+   A /trunk/Data
+   A /trunk/Data/LibEnchant.lua
+   A /trunk/Data/LibName.lua
+   A /trunk/Data/LibName_deDE.lua
+   A /trunk/Data/LibName_esES.lua
+   A /trunk/Data/LibName_frFR.lua
+   A /trunk/Libs
+   A /trunk/Libs/AceAddon-3.0
+   A /trunk/Libs/AceAddon-3.0/AceAddon-3.0.lua
+   A /trunk/Libs/AceAddon-3.0/AceAddon-3.0.xml
+   A /trunk/Libs/AceConfig-3.0
+   A /trunk/Libs/AceConfig-3.0/AceConfig-3.0.lua
+   A /trunk/Libs/AceConfig-3.0/AceConfig-3.0.xml
+   A /trunk/Libs/AceConfig-3.0/AceConfigCmd-3.0
+   A /trunk/Libs/AceConfig-3.0/AceConfigCmd-3.0/AceConfigCmd-3.0.lua
+   A /trunk/Libs/AceConfig-3.0/AceConfigCmd-3.0/AceConfigCmd-3.0.xml
+   A /trunk/Libs/AceConfig-3.0/AceConfigDialog-3.0
+   A /trunk/Libs/AceConfig-3.0/AceConfigDialog-3.0/AceConfigDialog-3.0.lua
+   A /trunk/Libs/AceConfig-3.0/AceConfigDialog-3.0/AceConfigDialog-3.0.xml
+   A /trunk/Libs/AceConfig-3.0/AceConfigRegistry-3.0
+   A /trunk/Libs/AceConfig-3.0/AceConfigRegistry-3.0/AceConfigRegistry-3.0.lua
+   A /trunk/Libs/AceConfig-3.0/AceConfigRegistry-3.0/AceConfigRegistry-3.0.xml
+   A /trunk/Libs/AceConsole-3.0
+   A /trunk/Libs/AceConsole-3.0/AceConsole-3.0.lua
+   A /trunk/Libs/AceConsole-3.0/AceConsole-3.0.xml
+   A /trunk/Libs/AceDB-3.0
+   A /trunk/Libs/AceDB-3.0/AceDB-3.0.lua
+   A /trunk/Libs/AceDB-3.0/AceDB-3.0.xml
+   A /trunk/Libs/AceDBOptions-3.0
+   A /trunk/Libs/AceDBOptions-3.0/AceDBOptions-3.0.lua
+   A /trunk/Libs/AceDBOptions-3.0/AceDBOptions-3.0.xml
+   A /trunk/Libs/AceEvent-3.0
+   A /trunk/Libs/AceEvent-3.0/AceEvent-3.0.lua
+   A /trunk/Libs/AceEvent-3.0/AceEvent-3.0.xml
+   A /trunk/Libs/AceGUI-3.0
+   A /trunk/Libs/AceGUI-3.0/AceGUI-3.0.lua
+   A /trunk/Libs/AceGUI-3.0/AceGUI-3.0.xml
+   A /trunk/Libs/AceGUI-3.0/widgets
+   A /trunk/Libs/AceGUI-3.0/widgets/AceGUIContainer-BlizOptionsGroup.lua
+   A /trunk/Libs/AceGUI-3.0/widgets/AceGUIContainer-DropDownGroup.lua
+   A /trunk/Libs/AceGUI-3.0/widgets/AceGUIContainer-Frame.lua
+   A /trunk/Libs/AceGUI-3.0/widgets/AceGUIContainer-InlineGroup.lua
+   A /trunk/Libs/AceGUI-3.0/widgets/AceGUIContainer-ScrollFrame.lua
+   A /trunk/Libs/AceGUI-3.0/widgets/AceGUIContainer-SimpleGroup.lua
+   A /trunk/Libs/AceGUI-3.0/widgets/AceGUIContainer-TabGroup.lua
+   A /trunk/Libs/AceGUI-3.0/widgets/AceGUIContainer-TreeGroup.lua
+   A /trunk/Libs/AceGUI-3.0/widgets/AceGUIContainer-Window.lua
+   A /trunk/Libs/AceGUI-3.0/widgets/AceGUIWidget-BlizOptionsGroup.lua
+   A /trunk/Libs/AceGUI-3.0/widgets/AceGUIWidget-Button.lua
+   A /trunk/Libs/AceGUI-3.0/widgets/AceGUIWidget-CheckBox.lua
+   A /trunk/Libs/AceGUI-3.0/widgets/AceGUIWidget-ColorPicker.lua
+   A /trunk/Libs/AceGUI-3.0/widgets/AceGUIWidget-DropDown-Items.lua
+   A /trunk/Libs/AceGUI-3.0/widgets/AceGUIWidget-DropDown.lua
+   A /trunk/Libs/AceGUI-3.0/widgets/AceGUIWidget-DropDownGroup.lua
+   A /trunk/Libs/AceGUI-3.0/widgets/AceGUIWidget-EditBox.lua
+   A /trunk/Libs/AceGUI-3.0/widgets/AceGUIWidget-Frame.lua
+   A /trunk/Libs/AceGUI-3.0/widgets/AceGUIWidget-Heading.lua
+   A /trunk/Libs/AceGUI-3.0/widgets/AceGUIWidget-Icon.lua
+   A /trunk/Libs/AceGUI-3.0/widgets/AceGUIWidget-InlineGroup.lua
+   A /trunk/Libs/AceGUI-3.0/widgets/AceGUIWidget-InteractiveLabel.lua
+   A /trunk/Libs/AceGUI-3.0/widgets/AceGUIWidget-Keybinding.lua
+   A /trunk/Libs/AceGUI-3.0/widgets/AceGUIWidget-Label.lua
+   A /trunk/Libs/AceGUI-3.0/widgets/AceGUIWidget-MultiLineEditBox.lua
+   A /trunk/Libs/AceGUI-3.0/widgets/AceGUIWidget-ScrollFrame.lua
+   A /trunk/Libs/AceGUI-3.0/widgets/AceGUIWidget-SimpleGroup.lua
+   A /trunk/Libs/AceGUI-3.0/widgets/AceGUIWidget-Slider.lua
+   A /trunk/Libs/AceGUI-3.0/widgets/AceGUIWidget-TabGroup.lua
+   A /trunk/Libs/AceGUI-3.0/widgets/AceGUIWidget-TreeGroup.lua
+   A /trunk/Libs/AceGUI-3.0/widgets/AceGUIWidget-Window.lua
+   A /trunk/Libs/AceLocale-3.0
+   A /trunk/Libs/AceLocale-3.0/AceLocale-3.0.lua
+   A /trunk/Libs/AceLocale-3.0/AceLocale-3.0.xml
+   A /trunk/Libs/CallbackHandler-1.0
+   A /trunk/Libs/CallbackHandler-1.0/CallbackHandler-1.0.lua
+   A /trunk/Libs/CallbackHandler-1.0/CallbackHandler-1.0.xml
+   A /trunk/Libs/LibDBIcon-1.0
+   A /trunk/Libs/LibDBIcon-1.0/LibDBIcon-1.0.lua
+   A /trunk/Libs/LibDataBroker-1.1
+   A /trunk/Libs/LibDataBroker-1.1/LibDataBroker-1.1.lua
+   A /trunk/Libs/LibStub
+   A /trunk/Libs/LibStub/LibStub.lua
+   A /trunk/Locale
+   A /trunk/Locale/deDE.lua
+   A /trunk/Locale/enUS.lua
+   A /trunk/Locale/esES.lua
+   A /trunk/Locale/frFR.lua
+   A /trunk/Locale/ruRU.lua
+   A /trunk/Modules
+   A /trunk/Modules/data.lua
+   A /trunk/Modules/enchanting.lua
+   A /trunk/Modules/gui.lua
+   A /trunk/Modules/scan.lua
+   A /trunk/TradeSkillMaster.lua
+   A /trunk/TradeSkillMaster.toc
+
+first commit
+------------------------------------------------------------------------
+r1 | root | 2010-10-17 00:19:17 +0000 (Sun, 17 Oct 2010) | 1 line
+Changed paths:
+   A /branches
+   A /tags
+   A /trunk
+
+"tradeskill-master/mainline: Initial Import"
+------------------------------------------------------------------------
